@@ -30,7 +30,3 @@
 - [0x14](./0x14-mysql) : MySQL.
 - [0x15](./0x15-api) : API.
 - [Attack is the best defense.](./attack_is_the_best_defense)
-
-fvghjjgfg
-ghihfrtyyugfgg
-yuutrrttr
